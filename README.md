@@ -31,7 +31,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ### `yarn deploy`
 
-Deploys the site to github
+Deploys the site to https://github.com/minayousseif/minayousseif.github.io.git
 
 See the section about [github pages deployment](https://create-react-app.dev/docs/deployment/#github-pages) for more information
 
