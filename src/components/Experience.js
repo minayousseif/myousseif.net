@@ -30,7 +30,7 @@ const Experience = () => {
                                 <div className="timeline-panel timeline-body-panel">
                                     <div className="timeline-body">
                                         <ul>
-                                            <li>Designing and building next-generation web applications and services supporting Malwarebytes products to fight and protect our customers against malware.</li>
+                                            <li>Designing and building next-generation web applications and services to support Malwarebytes products protecting our customers against malware.</li>
                                         </ul>
                                     </div>
                                 </div>
@@ -51,8 +51,8 @@ const Experience = () => {
                                     <div className="timeline-body">
                                         <ul>
                                             <li>Developed and maintained the company's web applications utilizing C#, ASP.NET MVC pattern, Cold Fusion and Ruby on Rails.</li>
-                                            <li>Extended the usability and built a customized web client application and a REST Web API for SAP Business One using C#, ASP.NET MVC pattern and SAP DI Objects, which improved the SAP software out of box functionality, streamed line processes and saved the company money.</li>
-                                            <li>Created and integrated an EDI C# application with SAP Business One to add an automation layer and improved data transfer between all business units and the company's trading partners like Amazon, Wayfair, Ace Hardware, and more.</li>
+                                            <li>Extended the usability and built a customized web client application and a REST Web API for SAP Business One using C#, ASP.NET MVC pattern and SAP DI Objects, which improved the SAP software out of box functionality, streamed line processes and resulting in a huge saving on licensing budget.</li>
+                                            <li>Created and integrated an EDI C# application with SAP Business One to add an automation layer and improved data transfer between all business units and the company's trading partners like Amazon, Wayfair, Ace Hardware, and Michaels.</li>
                                         </ul>
                                     </div>
                                 </div>
@@ -64,7 +64,7 @@ const Experience = () => {
                                 </div>
                                 <div className="timeline-panel timeline-head-panel">
                                     <div className="timeline-heading">
-                                        <h4>Freelancer Web Developer</h4>
+                                        <h4>Freelance Web Developer</h4>
                                         <h4 className="subheading">Minabyte LLC - Tampa Bay Area FL</h4>
                                         <h4 className="subheading">Sept 2012 - Feb 2016</h4>
                                     </div>
@@ -72,7 +72,7 @@ const Experience = () => {
                                 <div className="timeline-panel timeline-body-panel">
                                     <div className="timeline-body">
                                         <ul>
-                                            <li>Developed and designed dozens of web applications including mobile web applications and customized shopping carts with eBay integration using C# ASP.NET, PHP, HTML, CSS, Bootstrap, jQuery, jQuery mobile and the open-source shopping cart OpenCart.</li>
+                                            <li>Developed and designed web applications including mobile web applications, customized shopping carts with eBay integration using C# ASP.NET, PHP, HTML, CSS, Bootstrap, jQuery, jQuery mobile, and the open-source shopping cart OpenCart.</li>
                                             <li>Provided a complete IT service for contracted small businesses. </li>
                                         </ul>
                                     </div>
@@ -93,9 +93,9 @@ const Experience = () => {
                                 <div className="timeline-panel timeline-body-panel">
                                     <div className="timeline-body">
                                         <ul>
-                                            <li>Provided software/hardware support, server maintenance, and developed C# server applications and scripts to automate reports and tasks. Troubleshooting technical issues and assist employees with network problems, Installed encryption solutions, PKI ECA digital certificates, Medium USB token assurance, and PGP encryption applications, Maintained LAN/WAN environment and Configured VPN Networks between company's locations.</li>
+                                            <li>Provided software and hardware troubleshot support, server maintenance, and developed C# server applications and scripts to automate reports and tasks. Troubleshooting technical issues and assisted employees with network problems, installed encryption solutions, PKI ECA digital certificates, medium USB token assurance, and PGP encryption applications, maintained LAN/WAN environment and configured VPN networks between company's locations.</li>
                                             <li>Expedited the shipping process and saved hours of manual label creation by creating a Military MSL 129 marking and shipping label application to meet the DOD standards and requirements which eliminate the confusion and frustration of getting the right MIL-STD-129 compliant shipping labels.</li>
-                                            <li>Helped improving delivery tracking after developing a delivery logging and tracking application that was a middleware between the GPS fleet tracking system and updates the backend system.</li>
+                                            <li>Helped improving delivery tracking after developing a delivery logging and tracking application that was a middleware between the GPS fleet tracking system and the backend system.</li>
                                         </ul>
                                     </div>
                                 </div>

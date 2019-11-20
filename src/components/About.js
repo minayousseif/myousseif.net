@@ -26,11 +26,9 @@ const About = () => {
           </div>
           <div className="col-10 col-lg-10 offset-lg-1 offset-1">
             <p className="about-block">
-              I'm a Software Engineer and a Full-Stack developer with excellent
-              experience in a variety of platforms and programming languages. I
-              have a passion for creating challenging and data-intensive
-              applications. Currently I am working for Malwarebytes and I’m
-              privileged to work with and learn from some of the smartest people
+              I'm a software engineer with excellent experience in a variety of platforms and programming languages. 
+              I have a passion for creating challenging and data-intensive applications. 
+              Currently I am working for Malwarebytes and I’m privileged to work with and learn from some of the smartest people
               in my field.
             </p>
           </div>
