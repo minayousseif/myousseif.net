@@ -27,7 +27,7 @@ const Skills = () => {
                         </p>
                         <p className="skill-content">
                             I got introduced to Ruby in early 2014 and for the past 3 years, I've been using Ruby & Ruby on Rails for backend and web development, Node.js for serverless AWS Lambda functions and lately I've been working with Python for Windows and Linux applications. 
-                            Before that, I used to be a C# guy and I still write any side projects using C# and .Net core if I have the chance. Also, I enjoy building things using Golang. 
+                            Before that, I use to be a C# guy and I still write any side projects using C# and .Net core if I have the chance. Also, I enjoy building things using Golang. 
                         </p>
                     </div>
                 </div>
