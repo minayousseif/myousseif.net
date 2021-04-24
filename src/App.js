@@ -1,20 +1,24 @@
-import React from 'react';
-import './App.css';
+import React from "react";
+import "./App.css";
 
-import Navigation from './components/Navigation';
-import Header     from './components/Header';
-import About      from './components/About';
-import Skills     from './components/Skills';
-import Experience from './components/Experience';
-import Footer     from './components/Footer';
+import {
+  Navigation,
+  Header,
+  About,
+  Skills,
+  Accomplishments,
+  Experience,
+  Footer,
+} from "./components";
 
-function App() { 
+function App() {
   return (
     <div className="App">
       <Navigation />
       <Header />
       <About />
       <Skills />
+      <Accomplishments />
       <Experience />
       <Footer />
     </div>
