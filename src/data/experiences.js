@@ -7,7 +7,7 @@ export const PROFESSIONAL_EXPERIENCE = [
     company: "Deepwatch - Remote",
     dateText: "Apr 2020-Current",
     responsibilities: [
-      "Leading the development effort of a mobile application that allows security professionals to gain real-time visibility into their enterprise Security Operations Center (SOC).",
+      "Leading the development effort of a mobile application that allows security professionals to gain near real-time visibility into their enterprise Security Operations Center (SOC).",
       "Developing cloud-based application that compiles data and analytics on security programs and policies, including advanced metrics and log source reporting, for use by existing and prospective customers.",
     ],
   },

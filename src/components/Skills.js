@@ -27,11 +27,13 @@ const Skills = () => {
             <i className="devicon-python-plain colored skill-icon"></i>
             <i className="devicon-go-line colored skill-icon"></i>
             <p className="text-muted">
-              <b>Typescript, Node.js, Ruby, Ruby on Rails, C# and Python.</b>
+              <b>
+                Typescript, Node.js, Ruby, Ruby on Rails, C#, Python and Go.
+              </b>
             </p>
             <p className="skill-content">
               For the past year, most of my work focused on using Typescript and
-              Node.js for app development and serverless AWS Lambda function.
+              Node.js for app development and serverless AWS Lambda functions.
               I've been writing production-grade scalable microservices
               applications using Ruby since 2014, AWS Lambdas using Node.js
               since 2016, and I wrote cloud-native applications in Python and
