@@ -91,7 +91,7 @@ const Accomplishments = () => {
                     Patent: Facet Whitelisting in Anomaly Detection
                   </a>
                 </span>
-                <p>Malwarebytes - Status: Pending</p>
+                <p>U.S. Patent #US16/292,307</p>
               </div>
             </div>
           </div>
