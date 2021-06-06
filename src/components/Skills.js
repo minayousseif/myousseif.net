@@ -32,8 +32,8 @@ const Skills = () => {
               </b>
             </p>
             <p className="skill-content">
-              For the past year, most of my work focused on using Typescript and
-              Node.js for app development and serverless AWS Lambda functions.
+              Most of my work focused on using Typescript and Node.js for app
+              development and serverless AWS Lambda functions for the past year.
               I've been writing production-grade scalable microservices
               applications using Ruby since 2014, AWS Lambdas using Node.js
               since 2016, and I wrote cloud-native applications in Python and
@@ -57,9 +57,9 @@ const Skills = () => {
             </p>
             <p className="skill-content">
               I've been focusing on React, Angular, and Bootstrap for the past
-              few years, but I used in the past many libraries and frameworks
-              like jQuery, Knockoutjs, Backbone, and AngularJs. And sometimes I
-              use pure JavaScript for simple frontend work.
+              few years, but I used many libraries and frameworks like jQuery,
+              Knockoutjs, Backbone, and AngularJs. And sometimes, I use pure
+              JavaScript for simple frontend work.
             </p>
           </div>
         </div>
@@ -78,16 +78,15 @@ const Skills = () => {
               <b>Linux, Windows, AWS and Docker.</b>
             </p>
             <p className="skill-content">
-              For a fair amount of time, I got involved with the
-              operations/DevOps side of things besides developing. Building
-              servers, installing operating systems from Windows to Linux and
-              virtualization platforms, and configuring them to be
-              production-ready was part of my job. A few years ago, I got
-              introduced to Microservices, Docker, and cloud computing services
-              like AWS and Azure. Now I am an AWS certified solutions architect,
-              and I use AWS services in my day-to-day development. Also, I have
-              a Homelab that allows me to learn about systems, applications, and
-              different technologies.
+              I got involved with the operations/DevOps side of things besides
+              developing for a fair amount of time. Building servers, installing
+              operating systems from Windows to Linux and virtualization
+              platforms, and configuring them to be production-ready was part of
+              my job. A few years ago, I got introduced to Microservices,
+              Docker, and cloud computing services like AWS and Azure. Now I am
+              an AWS certified solutions architect, and I use AWS services in my
+              day-to-day development. Also, I have a Homelab that allows me to
+              learn about systems, applications, and different technologies.
             </p>
           </div>
         </div>
