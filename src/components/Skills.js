@@ -53,13 +53,13 @@ const Skills = () => {
             <i className="devicon-angularjs-plain colored skill-icon"></i>
             <i className="devicon-javascript-plain colored skill-icon"></i>
             <p className="text-muted">
-              <b>React, Angular and Bootstrap.</b>
+              <b>React, Angular, Bootstrap and Material-UI.</b>
             </p>
             <p className="skill-content">
-              I've been focusing on React, Angular, and Bootstrap for the past
-              few years, but I used many libraries and frameworks like jQuery,
-              Knockoutjs, Backbone, and AngularJs. And sometimes, I use pure
-              JavaScript for simple frontend work.
+              I've been focusing on React, Angular, Bootstrap, and Material-UI
+              for the past few years, but I used many libraries and frameworks
+              like jQuery, Knockoutjs, Backbone, and AngularJs. And sometimes, I
+              use pure JavaScript for simple frontend work.
             </p>
           </div>
         </div>

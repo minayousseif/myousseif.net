@@ -7,7 +7,7 @@ export const PROFESSIONAL_EXPERIENCE = [
     company: "Deepwatch - Remote",
     dateText: "Apr 2020-Current",
     responsibilities: [
-      "Leading the development effort of a mobile application to allow security professionals to gain visibility into their enterprise Security Operations Center (SOC).",
+      "Leading the development effort of a mobile application to allow security professionals to gain visibility into their enterprise Security Operations Center (SOC) using React Native, GraphQL, and AWS serverless architecture (AppSync, API Gateway, Lambda, DynamoDB, SQS, and S3).",
       "Developing a cloud-based application that compiles data and analytics on security programs and policies, including advanced metrics and log source reporting, for use by existing and prospective customers.",
     ],
   },
@@ -19,7 +19,7 @@ export const PROFESSIONAL_EXPERIENCE = [
     company: "Malwarebytes - Clearwater FL",
     dateText: "Sept 2016- Apr 2020",
     responsibilities: [
-      "Designed and built next-generation web applications and services supporting Malwarebytes products protecting customers against malware using Ruby, Ruby on Rails, Node.js, Python, Go, C++, and Amazon cloud computing services.",
+      "Designed and built next-generation web applications and services supporting Malwarebytes products protecting customers against malware using Ruby, Ruby on Rails, Node.js, Python, Go, C++, and Amazon Web Services (ECS, Lambda, DynamoDB, Aurora, Elasticsearch, ElastiCache, Kinesis streams, SQS, S3, and API Gateway).",
       "Developed production-ready scalable microservice and serverless applications providing millions of clients with near real-time information to detect malware and prevent false positives.",
     ],
   },
