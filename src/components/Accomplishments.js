@@ -47,6 +47,29 @@ const Accomplishments = () => {
                 <a
                   target="_blank"
                   rel="noopener noreferrer"
+                  href="https://patents.google.com/patent/US20200287914A1"
+                >
+                  <img alt="" src={PatentIcon} />
+                </a>
+              </div>
+              <div className="col-12 col-md-8 col-lg-8 badge-details">
+                <span className="badge-name">
+                  <a
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    href="https://patents.google.com/patent/US20210218755A1"
+                  >
+                    Patent: Facet Blacklisting in Anomaly Detection
+                  </a>
+                </span>
+                <p>U.S. Patent Pending #US17/219,492</p>
+              </div>
+            </div>
+            <div className="row accomplishment-badge">
+              <div className="col-12 col-md-4 col-lg-4 badge-img-container">
+                <a
+                  target="_blank"
+                  rel="noopener noreferrer"
                   href="https://www.credly.com/badges/549783e9-a501-48fb-8eec-fe9c697cd7cb/embedded"
                 >
                   <img
